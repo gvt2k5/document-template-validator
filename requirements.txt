@@ -1,0 +1,7 @@
+Flask
+pytesseract
+Pillow
+opencv-python
+pdf2image
+python-docx
+reportlab
